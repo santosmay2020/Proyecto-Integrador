@@ -1,0 +1,7 @@
+.liau-cards{
+  padding: 16px;
+}
+
+.liau-cards > mat-card{
+  width: 200px;
+}
